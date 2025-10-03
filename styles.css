@@ -141,5 +141,5 @@ footer a:hover {
                                                       /* Estilo das imagens */
                                                               .galeria img {
                                                                           width: 30%; /* Tamanho das imagens, você pode ajustar */
-                                                                                      height: auto;
+                                                                                      height:"300";
  }
