@@ -124,6 +124,14 @@ footer a:hover {
   color: var(--cor-principal);
 }
 
+.chamada {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
 .galeria {
               display: flex;
                           justify-content: space-around; /* Distribui as imagens igualmente */
@@ -135,10 +143,3 @@ footer a:hover {
                                                                           width: 30%; /* Tamanho das imagens, você pode ajustar */
                                                                                       height: auto;
  }
-
- .media-video-container video {
-  max-width: 400px;
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-}
