@@ -134,4 +134,11 @@ footer a:hover {
                                                               .galeria img {
                                                                           width: 30%; /* Tamanho das imagens, você pode ajustar */
                                                                                       height: auto;
+ }
+
+ .media-video-container video {
+  max-width: 400px;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
 }
