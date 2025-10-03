@@ -90,7 +90,7 @@ a:hover {
 
 .fundo-galeria img {
   height: 250px;
-  width: 100%;
+  width: 30%;
   object-fit: cover;
   border-radius: 12px;
   margin-bottom: 20px;
