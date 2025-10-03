@@ -89,7 +89,7 @@ a:hover {
 }
 
 .fundo-galeria img {
-  height: 250px;
+  height: 150px;
   width: 100%;
   object-fit: cover;
   border-radius: 12px;
@@ -141,5 +141,5 @@ footer a:hover {
                                                       /* Estilo das imagens */
                                                               .galeria img {
                                                                           width: 30%; /* Tamanho das imagens, você pode ajustar */
-                                                                                      height:"300";
+                                                                                      height: auto;
  }
