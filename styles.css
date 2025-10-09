@@ -132,6 +132,11 @@ footer a:hover {
     justify-content: center;
 }
 
+.h2 {
+font-size: 32px;
+color: red
+}
+
 .galeria {
               display: flex;
                           justify-content: space-around; /* Distribui as imagens igualmente */
