@@ -52,7 +52,7 @@ header nav .nav-link:hover {
 p {
   font-size: 20px;
   line-height: 1.6;
-  color: red;   /* Agora em preto */
+  color: rgb(0, 0, 0);   /* Agora em preto */
   margin-bottom: 16px;
   text-align: justify;
 }
