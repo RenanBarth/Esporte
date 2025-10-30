@@ -132,6 +132,10 @@ footer a:hover {
     justify-content: center;
 }
 
+.h2, h2 {
+  color:rgb(17, 0, 255)
+}
+
 .h2 {
 font-size: 32px;
 color:rgb(0, 0, 0);
